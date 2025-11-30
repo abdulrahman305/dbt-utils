@@ -10,3 +10,4 @@ pytest-xdist
 tox>=3.13
 snowflake-connector-python>=4.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
 zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
+werkzeug>=3.1.4 # not directly required, pinned by Snyk to avoid a vulnerability
